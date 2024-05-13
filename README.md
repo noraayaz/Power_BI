@@ -1,7 +1,6 @@
-Power BI Project | Himalaya Kött & Video
-(24 september 2023 - 1 october 2023)
+Power BI Projects | Himalaya Kött & Video, sep 2023 - oct 2023 | Freddy's BI-Cycles, oct 2023 - nov 2023
 
-Strategic Data Analysis Project for Himalaya Kött & Video provides a comprehensive activity report 
+Strategic Data Analysis Project for Himalaya Kött & Video and Freddy's BI-Cycles provides a comprehensive activity report 
 focusing on critical business areas including sales, campaigns, HR and economic analysis.
 
 In this project;
