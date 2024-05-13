@@ -1,4 +1,5 @@
 Power BI Project | Himalaya Kött & Video
+
 Duration: 24 september 2023 - 1 october 2023
 
 Strategic Data Analysis Project for Himalaya Kött & Video provides a comprehensive activity report 
