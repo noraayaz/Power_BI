@@ -16,9 +16,13 @@ In this projects;
 
 * Carefully designed each report for maximum impact and readability, using project-specific color palettes, layouts and customized graphics.
 
+## Himalaya Kött & Video
+
 ![Himalaya Kött & Video Image](https://github.com/noraayaz/Power_BI/blob/main/HKV_pbix.jpg)
 
 The image above is provided as an example to showcase the appearance and structure of the **HR section** within this project.
+
+## Freddy's BI-Cycles
 
 ![Freddy's BI-Cycles Image](https://github.com/noraayaz/Power_BI/blob/main/FBC_pbix.jpg)
 
