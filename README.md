@@ -1,6 +1,6 @@
 # Power BI Projects | Himalaya Kött & Video, sep 2023 - oct 2023 | Freddy's BI-Cycles, oct 2023 - nov 2023
 
-![Himalaya Kött & Video Image](https://github.com/noraayaz/Power_BI/HKV_pbix.jpg)
+![Himalaya Kött & Video Image](https://github.com/noraayaz/Power_BI/blob/main/HKV_pbix.jpg)
 
 The image above is provided as an example to showcase the appearance and structure of the **HR section** within this project.
 
