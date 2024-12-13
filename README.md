@@ -1,9 +1,5 @@
 # Power BI Projects | Himalaya Kött & Video, sep 2023 - oct 2023 | Freddy's BI-Cycles, oct 2023 - nov 2023
 
-![Himalaya Kött & Video Image](https://github.com/noraayaz/Power_BI/blob/main/HKV_pbix.jpg)
-
-The image above is provided as an example to showcase the appearance and structure of the **HR section** within this project.
-
 Strategic Data Analysis Project for Himalaya Kött & Video and Freddy's BI-Cycles provides a comprehensive activity report 
 focusing on critical business areas including sales, campaigns, HR and economic analysis.
 
@@ -19,3 +15,11 @@ In this projects;
 * Designed and visualized versatile reports that increased operational efficiency and productivity.
 
 * Carefully designed each report for maximum impact and readability, using project-specific color palettes, layouts and customized graphics.
+
+![Himalaya Kött & Video Image](https://github.com/noraayaz/Power_BI/blob/main/HKV_pbix.jpg)
+
+The image above is provided as an example to showcase the appearance and structure of the **HR section** within this project.
+
+![Freddy's BI-Cycles Image](https://github.com/noraayaz/Power_BI/blob/main/FBC_pbix.jpg)
+
+The image above is provided as an example to showcase the appearance and structure of the **Sales Analysis section** within this project.
