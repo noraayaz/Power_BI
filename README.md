@@ -24,7 +24,6 @@ In this projects;
 ![Himalaya Kött & Video Image](https://github.com/noraayaz/Power_BI/blob/main/hkv5.webp)
 ![Himalaya Kött & Video Image](https://github.com/noraayaz/Power_BI/blob/main/hkv6.webp)
 ![Himalaya Kött & Video Image](https://github.com/noraayaz/Power_BI/blob/main/hkv7.webp)
-The image above is provided as an example to showcase the appearance and structure of the **HR section** within this project.
 
 ## Freddy's BI-Cycles
 
@@ -35,4 +34,3 @@ The image above is provided as an example to showcase the appearance and structu
 ![Freddy's BI-Cycles Image](https://github.com/noraayaz/Power_BI/blob/main/fbc5.webp)
 ![Freddy's BI-Cycles Image](https://github.com/noraayaz/Power_BI/blob/main/fbc6.webp)
 
-The image above is provided as an example to showcase the appearance and structure of the **Sales Analysis section** within this project.
